@@ -1,0 +1,60 @@
+.modalPrincipal{
+   /*  width: 240px;
+    height: 340px; */
+    width: 260px;
+    height: 360px;
+    background-color: #fff;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+.title{
+    width: 240px;
+    color: #212559;
+    text-align: center;
+    font-size: 1.12rem;
+    font-weight: 700;
+    padding: 20px 20px 5px 20px;
+}
+
+.formulario{
+    padding: 20px;
+   /*  display: flex;
+    justify-content: center;
+    justify-content: space-around; */
+    /* padding: 5px 20px 20px 20px ; */
+}
+
+.boton{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.botonAgregar{
+    padding: 8px 16px;
+    background-color:#df7e14 ; 
+    color: #fff;  
+    cursor: pointer;
+}
+
+.botonAgregar:hover{
+    background-color: #212559  
+}
+
+.botonCancelar{
+    padding: 8px 16px;
+    background-color: #212559 ; 
+    color: #fff;  
+    cursor: pointer;
+}
+
+.botonCancelar:hover{
+    background-color: #df7e14  
+}
+
+.input{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
+}

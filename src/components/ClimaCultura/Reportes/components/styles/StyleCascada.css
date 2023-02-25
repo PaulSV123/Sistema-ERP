@@ -1,0 +1,134 @@
+details {
+  background-color: #ffffff;
+  width: 98.5%;
+  color: #364f6b;
+  position: relative;
+  text-align: left; 
+}
+details summary {
+  font-weight: 400;
+  font-size: 1.2rem;
+  padding: 1rem;
+  cursor: pointer;
+  list-style: none;
+  outline: none !important;
+}
+details p {
+  padding-right: 70px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-right: 30px;
+  text-align: right;
+}
+
+details[open] summary {
+  font-weight: 550;
+  
+}
+
+details[open] .mes {
+  padding-left: 15px;
+}
+details[open] .dpto {
+  padding-left: 15px;
+}
+details[open] .ar {
+  padding-left: 15px;
+}
+
+details summary::before {
+  position: absolute;
+  font-size: 1.5rem;
+  top: 8px;
+}
+
+.imgFlecha, 
+.imgFlecha2, 
+.imgFlecha3, 
+.imgFlecha4{
+  transform: rotate(-90deg);
+}
+
+details[open] summary::before {
+  -webkit-animation: rotate 0.4s ease-in-out both;
+  animation: rotate-emoji 0.4s ease-in-out both;
+}
+.an[open] .imgFlecha {
+  animation: rotate-flecha 0.4s ease-in-out both;
+}
+.an[open] .imgFlecha,
+.mes[open] .imgFlecha2,
+.dpto[open] .imgFlecha3,
+.ar[open] .imgFlecha4 {
+  animation: rotate-flecha 0.4s ease-in-out both;
+}
+
+@keyframes rotate-flecha {
+  0% {
+    transform: rotate(-90deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.col {
+  padding-left: 30px;
+  font-size: 1rem;
+}
+
+.title {
+  background: rgb(215, 235, 241);
+  width: 98.5%;
+  text-align: left;
+  padding-left: 10px;
+  padding-top: 1.5px;
+  padding-bottom: 0.1px;
+  font-family: sans-serif;
+  color: #364f6b;
+}
+.contenedor_general{
+    max-height: 500px;
+    overflow: auto;
+}
+
+.contenedor_general::-webkit-scrollbar{
+  width: 6px;
+}
+
+.contenedor_general::-webkit-scrollbar-thumb{
+  width: 6px; 
+}
+
+.title-diagrama{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.title-diagrama .titulo-text{
+  margin: 0;
+  padding: 0;
+}
+
+
+.titulo-text2{
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.summary-style{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+@media screen and (max-width:800px) {
+  .contenedor_general{
+    flex-wrap: wrap;
+    max-width: 700px;
+  }
+  
+}

@@ -1,0 +1,122 @@
+[33ma15198d[m[33m ([m[1;36mHEAD -> [m[1;32mMarcosQuintana[m[33m, [m[1;31morigin/MarcosQuintana[m[33m)[m Cambios CC01-CC03
+[33m355eb80[m Merge branch 'MarcosQuintana' of https://gitlab.com/consigueventas.frontend/sistemaERP into MarcosQuintana
+[33m0adc8f2[m cambios de C001 y C002
+[33m0a803b6[m Modificacion del filtrado
+[33mb3dc699[m Modificacion de nombres en tablas
+[33m1cb5c15[m modificarndo aceptar de tabla
+[33m17700ee[m Merge branch 'MarcosQuintana' of https://gitlab.com/consigueventas.frontend/sistemaERP into MarcosQuintana
+[33mabb616c[m cambios de nta foto
+[33mc0fa945[m mensaje agregado
+[33ma298a52[m Modificacion de Tablas
+[33m5aa57b2[m Merge branch 'MarcosQuintana' of https://gitlab.com/consigueventas.frontend/sistemaERP into MarcosQuintana
+[33m6f8c445[m cambios fecha
+[33m1941cec[m Tabla modificada
+[33m6696587[m cambiando tipo de filtro en clima cultura_ cumpleaños
+[33ma5fea5b[m url configuracion y texto corregidos
+[33mbaccee3[m correcion de urls
+[33md9178d4[m modificicacion de la url del logo
+[33m436a070[m cambio 2 al ruteo de boton
+[33mc595f25[m Merge branch 'MarcosQuintana' of https://gitlab.com/consigueventas.frontend/sistemaERP into MarcosQuintana
+[33m9e7d894[m cambio de ruteo boton regresar
+[33m9eb77ed[m urls variables modificadas
+[33mcdf1aee[m modificaciones en las urls
+[33m960dc00[m Modificacion a filtro Cumpleahnos
+[33m4686550[m modificacion de filtro fecha retiro
+[33m0899c03[m filtro defecha retiro
+[33md0d98a5[m colores pasteles
+[33md07c6b2[m cambios gráfico
+[33ma0232ef[m implementación de los filtros en tabla cumpleaños de colaboradores
+[33m3860f6a[m Agregando datos en los campos de cumple colaboradores
+[33m17bd25d[m Merge branch 'MarcosQuintana' of https://gitlab.com/consigueventas.frontend/sistemaERP into MarcosQuintana
+[33ma352505[m modicicacion en la tabala cumpleaños colaboradores
+[33mb681961[m Modifcion del ToolBar Capacitacion
+[33m57a2e84[m Merge branch 'MarcosQuintana' of https://gitlab.com/consigueventas.frontend/sistemaERP into MarcosQuintana
+[33m18d0263[m modificación del error fecha
+[33m5acec22[m agregando diseño responsive
+[33me35a1c7[m Merge branch 'MarcosQuintana' of https://gitlab.com/consigueventas.frontend/sistemaERP into MarcosQuintana
+[33ma244e88[m Merge branch 'MarcosQuintana' of https://gitlab.com/consigueventas.frontend/sistemaERP into MarcosQuintana
+[33mee30350[m eliminación de texto
+[33m1e6e2ef[m Merge branch 'MarcosQuintana' of https://gitlab.com/consigueventas.frontend/sistemaERP into MarcosQuintana
+[33m18e1968[m Cambio del outline
+[33m24851e0[m Merge branch 'MarcosQuintana' of https://gitlab.com/consigueventas.frontend/sistemaERP into MarcosQuintana
+[33m6d530ec[m arreglo del responsive en clima y cultura
+[33m641a8d9[m Modificando diseño de Diagrama Cascada
+[33m8608507[m[33m ([m[1;31morigin/mirellaMorales[m[33m)[m Modificando datos del despliegue
+[33mc87124a[m Arreglando bug en grafico de barras
+[33m439f659[m Se optimizó el gráfico de cascada y vista por defecto del grafico circular
+[33m6cde0e5[m CambiosRealizados-PuntoyComa
+[33me6f3745[m PuntoYComa0.2
+[33m2d05ebf[m Punto y coma
+[33m705997d[m Merge remote-tracking branch 'origin/rodrigo' into mirellaMorales
+[33m4bad136[m Merge branch 'jhordanR' of https://gitlab.com/consigueventas.frontend/sistemaERP into mirellaMorales
+[33m266e063[m[33m ([m[1;31morigin/jhordanR[m[33m)[m test: Agrega tests en Cumpleaños colaboradores
+[33m8bb2d65[m[33m ([m[1;31morigin/rodrigo[m[33m)[m Carpeta EvaluacionSesion y Reportes creadas y enrutadas
+[33m08c6ea0[m Subiendo Cascada, EvaluacionNOtas Falta Api
+[33mdb97a79[m Uniendo Proyecto con Jhordan
+[33m1b7e4ef[m ConstruccionGraficoCircular
+[33m75bdfa0[m Limpiando la consola
+[33m905a61d[m FaltaApi-PAraFiltrado
+[33mca6ec24[m SolicitandoAyuda
+[33m3c7150f[m Integrando Grafico notas de integracion
+[33m06947b0[m Sacar notas del mes - notas de integracion
+[33m4560666[m Añadiendo grafico de notas de integracion
+[33mf5db6e5[m[33m ([m[1;31morigin/wendyNieto[m[33m, [m[1;31morigin/martinFlores[m[33m, [m[1;31morigin/luisRamirez[m[33m, [m[1;31morigin/grabielaCastro[m[33m, [m[1;31morigin/eduardoPizango[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/christianAlarcon[m[33m)[m Merge branch 'enmanuel' of https://gitlab.com/consigueventas.frontend/sistemaERP into dev
+[33m8d887b9[m Merge branch 'cristianc' of https://gitlab.com/consigueventas.frontend/sistemaERP into dev
+[33m3c89e70[m[33m ([m[1;31morigin/enmanuel[m[33m)[m crud terminado actividades gerenciales
+[33m00715e3[m[33m ([m[1;31morigin/cristianc[m[33m)[m Se termino la vista colaboradores a inducir
+[33mf804585[m Merge branch 'luis' of https://gitlab.com/consigueventas.frontend/sistemaERP into dev
+[33m2e57db1[m[33m ([m[1;31morigin/ricardo_enriquez[m[33m, [m[1;31morigin/luis[m[33m)[m fix:Ruta ClimayCultura Actualizado
+[33m58b16b7[m Merge branch 'rodrigo' of https://gitlab.com/consigueventas.frontend/sistemaERP into dev
+[33md4469c4[m[33m ([m[1;31morigin/alexander[m[33m)[m Crud Completo tabla integracion con bugs resueltos
+[33medba337[m vista-Completada
+[33m007b72b[m feat:Vista Calendario y Listado Sesiones terminado
+[33m139c04e[m Vista-MaterialInduccion-ModalCrear-OK
+[33m54779a4[m[33m ([m[1;31morigin/sebastian[m[33m, [m[1;31morigin/ricardo[m[33m, [m[1;31morigin/gabriel[m[33m)[m Merge branch 'alexander' of https://gitlab.com/consigueventas.frontend/sistemaERP into dev
+[33m77538a0[m Crud Tabla integracion termianda
+[33ma8908df[m Funcionalidad de eliminar Terminado
+[33m4f4d363[m Maquetado SesionesIntegracion
+[33m89a29ff[m ModalInudccion
+[33m9572d49[m Crud completado
+[33m47b5409[m funcionales de agregar y editar listos
+[33m846e9d8[m pos y deleete listos
+[33m76b1491[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into enmanuel
+[33m303f976[m Merge branch 'cristianc' of https://gitlab.com/consigueventas.frontend/sistemaERP into dev
+[33m45709c8[m Merge branch 'santiago' of https://gitlab.com/consigueventas.frontend/sistemaERP into enmanuel
+[33m8a3f07f[m cambios archivos2
+[33m35fba67[m Maquetado y consumo de api de listado de sesió
+[33m81d7928[m cambios archivos
+[33mb8cf5f6[m cambios modal
+[33mfe7e02e[m Se incluye filtros a la tabla de cumpleaños y practicantes inducidos
+[33me55e005[m trabjando en el evio de datos
+[33m276f47a[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into cristianc
+[33ma5f565e[m[33m ([m[1;31morigin/andrea[m[33m, [m[1;31morigin/abel[m[33m)[m Arreglo de reporte ok
+[33m20a86ae[m Actualizaciones sprints ok
+[33me88d11e[m Actualizaciones Sprint3
+[33m7c5adfc[m Actualizacion ok
+[33m09681a6[m Merge branch 'diego' of https://gitlab.com/consigueventas.frontend/sistemaERP into andrea
+[33mb3ee64d[m Actualizacion del sprint 1 y 3
+[33md195131[m Reporte practicante inducidos terminado
+[33m913297d[m avance_materialInduccion
+[33me2d4ee0[m Conflictos solucionados
+[33m12d6b64[m componente cumpleañosColaboradores
+[33mc173361[m grafico ingresantes -OK
+[33m3071ee2[m Creacion de vista Actividades Generales 1.0
+[33m6840af0[m solucionando conflictos
+[33m51204fe[m solucion de conflicto
+[33mda0697b[m[33m ([m[1;31morigin/diego[m[33m)[m asda
+[33m7e041e2[m arreglando
+[33mf1f5e8c[m Falta consumo de la api
+[33m8f1f3c2[m Reportes actualizados ok
+[33m5b802d4[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into andrea
+[33m6fb115d[m merge report llamadas/entrevistas
+[33m3a86929[m avance ReporteLlamadas
+[33m2d6c4fd[m se termino entrevistas supuest..
+[33m1878823[m reportes - total aceptacion llamadas por plataforma- OK
+[33m629ba62[m avance tabla resum gene
+[33ma64b19f[m reportes - total de postulaciones por plataforma - OK
+[33mc97dbc8[m post area
+[33m512cc7c[m Arreglo de sidebar ok
+[33m60fb94d[m se termino la parte de grupos entrevistas
+[33m929c7c0[m merge editar evaluacion OK
+[33m2a78778[m editar evaluacion OK
+[33m16e9ce9[m editar evaluacion OK - avanc

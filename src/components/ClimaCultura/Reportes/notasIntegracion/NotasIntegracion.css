@@ -1,0 +1,7 @@
+.graficoNotasIntegracion{
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

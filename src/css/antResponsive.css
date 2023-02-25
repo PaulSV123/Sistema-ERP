@@ -1,0 +1,11 @@
+@media (max-width: 600px) {
+  .ant-picker-panels {
+    flex-direction: column;
+  }
+  .ant-calendar-range {
+    width: 320px;
+  }
+  .ant-calendar-range-part {
+    width: 100%;
+  }
+}

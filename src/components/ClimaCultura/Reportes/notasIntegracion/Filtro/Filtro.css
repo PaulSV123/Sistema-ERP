@@ -1,0 +1,98 @@
+.main {
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+/* problema en estilos ----- */
+.container-filtro{
+    width: 100%;
+    display: flex;
+    /*  border:1px solid red; */
+    border: 3px solid rgb(95, 94, 94);
+    height: auto;
+    padding: 10px;
+}
+
+.containerSelect {
+    width: 250px;
+    /* height: 80px; */
+    min-height: 80px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    /* border: 1px solid blue; */
+    border-right: 2px solid rgb(95, 94, 94);
+}
+
+.input {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 170px;
+    height: 50px;
+    margin-top: 15px;
+    /* border: 1px solid rgb(95, 94, 94); */
+}
+
+.containerBoton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 170px;
+    height: 50px;
+    margin-top: 15px;
+    border: 1px solid rgb(95, 94, 94);
+
+}
+
+.containerSelectBoton {
+    width: 250px;
+    min-height: 80px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.textBoton {
+    font-size: 20px;
+    color: black;
+    letter-spacing: 2px;
+}
+
+/* ESTILOS PARA LA FECHA  */
+
+.option {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.space {
+    margin-bottom: 8px;
+}
+
+.height {
+    line-height: 80px;
+}
+
+
+ @media screen and (max-width:800px){
+        .container-filtro{
+            flex-wrap:  wrap;
+            width: 60%;
+        }
+ }
+
+ 
+ @media screen and (max-width:1200px){
+    .container-filtro{
+        flex-wrap:  wrap;
+       /* width: 80%;*/
+        padding: 15px;
+    }
+}

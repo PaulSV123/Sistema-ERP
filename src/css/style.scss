@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=fallback');
+
+@tailwind base;
+@tailwind components;
+
+// Additional styles
+@import 'additional-styles/utility-patterns.scss';
+@import 'additional-styles/range-slider.scss';
+@import 'additional-styles/toggle-switch.scss';
+@import 'additional-styles/flatpickr.scss';
+@import 'additional-styles/theme.scss';
+
+@tailwind utilities;
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+.fc .fc-toolbar-title  {
+      font-size : 1.05em !important;     
+}
+
+.fc .fc-toolbar-title::first-letter{
+      text-transform: uppercase ;
+
+}
+// @media screen and (min-width: 768px) {
+//   .fc .fc-toolbar-title  {
+//       font-size : 2em !important;      
+//   }
+//   .fc .fc-toolbar-title::first-letter{
+//       text-transform: uppercase ;
+// }
+  
+// }
+
+
+input[type=number] { -moz-appearance:textfield; }

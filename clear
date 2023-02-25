@@ -1,0 +1,210 @@
+[33me239e9b[m[33m ([m[1;36mHEAD -> [m[1;32mbruno[m[33m, [m[1;31morigin/bruno[m[33m)[m Modal de Editar tabla
+[33m2592bca[m update
+[33mc830192[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into dev
+[33m6e9b491[m ACCION EDITAR CURSO LISTO (MAQUETADO)
+[33ma298ba1[m Update ModalEvaluacion.jsx
+[33m05f70c8[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into manuel
+[33m9bbb05d[m Agregar Evaluacion Terminado
+[33m43c86e1[m Fecha datetimepicker
+[33m6d9f9a0[m Merge branch 'estefany' into dev
+[33ma662e40[m Protipado Modal Agregar Curso LISTO
+[33mc1404dd[m Modal Agregar Evaluacion
+[33m48523ac[m add modal && tabla evaluacion
+[33m26aa35d[m add method get endpoint evluacion modal
+[33ma884dfb[m getPeticion modal evaluacion detalle
+[33m9766e0f[m Merge branch 'jesus' of https://gitlab.com/consigueventas.frontend/sistemaERP into dev
+[33m16d8b03[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into dev
+[33md55c39a[m correcion conflictos
+[33m5e43f17[m add loader module -evaluacion , practicante
+[33mfb0aaed[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into jesus
+[33md262eb9[m Peticion ListarReclutadores
+[33m269ebda[m descarte
+[33mbcd42e2[m update
+[33md4eefea[m add data tablaEvaluacion
+[33m426dcbf[m API Tabla Evaluacion LISTO
+[33m0d503c1[m API Practicante Listo
+[33mfcafc91[m[33m ([m[1;32mdev[m[33m)[m Vista Reporte Lista
+[33m66bfd7e[m Tabla Colaboradores
+[33mfa14ba2[m Reporte semanal listo
+[33m2e6fffa[m Grafico Tablas Ingresos listo
+[33m396bd5c[m Tabla Ingresos lista
+[33mefffaf4[m Total Capacitados Listo
+[33md94b040[m[33m ([m[1;31morigin/manuel[m[33m, [m[1;31morigin/jesus[m[33m, [m[1;31morigin/andrea[m[33m)[m tabla Practicantes Terminada
+[33mee98273[m Update TablaPracticantes.jsx
+[33md33d3d7[m Tabla Practicantes Inicio
+[33m552c392[m[33m ([m[1;31morigin/henry[m[33m, [m[1;31morigin/elvis[m[33m)[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into elvis
+[33mbcc1d4f[m TablaEvaluar-multicelda-despedida
+[33mea006a7[m Ultimas correcciones de logs para Erp-modo desarrollo
+[33mbfef362[m Pasando a modo desarrollo y arreglando el cerrar sesion
+[33mb0d4800[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into dev
+[33ma873b29[m Configuracion para despliegue y cerrar sesión
+[33m0deae18[m validaciones en el header roles
+[33m5f38fea[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into dev
+[33m6d9ac62[m arreglado de permisos undefined
+[33m72c6ac2[m[33m ([m[1;31morigin/roberth[m[33m)[m proteccion de rutas de roles
+[33m0b4acdd[m Actualizado de Roles Header
+[33m767c8f2[m agregado labels agregar permisos y roles
+[33m26b211c[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into roberth
+[33m40dba04[m commit de prueba
+[33m47197fb[m demo leyenda
+[33m6dfc467[m modal evaluacion
+[33m0c0a33f[m modales
+[33m6190f9c[m estados de los cursos
+[33ma7b37e7[m prueba
+[33m8443ed4[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into henry
+[33m33ce1b2[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into henry
+[33m996b23b[m Tabla multicelda semilista
+[33m2e20a4e[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into elvis
+[33m42434fb[m modal evaluacion
+[33mad33e36[m[33m ([m[1;31morigin/miguel[m[33m)[m cambios
+[33m0bfee38[m integracion de page404
+[33m2dc190f[m agregado permisos  roles en gestion de usuario, filtrado de permisos
+[33m7d31880[m Filtrado de los modulos Header y proteccion de rutas
+[33mb8b07ab[m tabla evaluacion
+[33m89e734e[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into roberth
+[33m90efeef[m Iniciando los filtros para el Header
+[33maaae38a[m fix merge permisos reclutamiento
+[33m50c220b[m 2da mitad permisos reclutamiento
+[33m1fa06e8[m Arreglado importacion de spinner
+[33m0a8cb13[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into dev
+[33m28f3ccf[m Filtrado de las 3 primeras opciones del sidebar y sus vistas
+[33m3e948ad[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into henry
+[33mc15235d[m fix merge
+[33m83c23de[m roles a usuarios
+[33mbdfa784[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into henry
+[33m77939c7[m Merge solucionado despues de agregar estados globales
+[33m52dd676[m Variables globales de roles y permisos
+[33mf17aff9[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into henry
+[33m6756d41[m tablaEvaluacion
+[33m937929f[m tabla recursos y temario
+[33m68d6ea6[m -
+[33ma279c34[m clonar
+[33m96952b2[m Merge branch 'dev' of https://gitlab.com/consigueventas.frontend/sistemaERP into roberth
+[33m04b3a89[m push de prueba al gitlab
+[33mb20d99d[m avance asignar roles
+[33m43a7a7a[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into dev
+[33m3f7d8d7[m tabla excel :v
+[33mc2e3758[m Merge branch 'roberth' of https://github.com/CristinaAT19/sistemaERP into dev
+[33m27ab25b[m Implementado  validacion de editar permiso
+[33md1d77f0[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into roberth
+[33m51cc34c[m Responsive de modal agregar y editar rol listo
+[33m6e7c203[m validacion Permiso, disable name Edit
+[33m9debc40[m cambio de prueba github
+[33m75e6ebc[m Cambios para nuevo repo
+[33m6ab35cc[m este es
+[33m0209937[m ahora si terminado roles
+[33m5bc3bd0[m CheckBox Roles terminado por fin
+[33m444d292[m Prueba arreglar state permisos
+[33m969adc3[m check Box logica
+[33mb480d64[m prueba de checkBox
+[33m08cea21[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into henry
+[33m61dc3e8[m modal confirmar Permisos
+[33mfd291fc[m Eliminar rol listo
+[33m0c3f6f1[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into roberth
+[33mba4cec2[m Agregar rol y modal en columnas
+[33m1129a3b[m sidebar capacitacion
+[33m861e450[m cambios
+[33med7e6b6[m rutas header
+[33m3916732[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into dev
+[33m95ffc13[m Api eliminar permiso listo
+[33m0c12223[m Listar Rol
+[33m3bcbcf3[m -
+[33m6565bfe[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into henry
+[33m500bb84[m Api editar permiso listo
+[33m0a939ce[m Rutas para Capacitación
+[33ma19c2c6[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into roberth
+[33mf50c36f[m revisando vista evaluacion
+[33m87fb6c2[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into dev
+[33m0377528[m Api crear permiso listo
+[33m78f29ff[m modales permisos
+[33m89a6df2[m Api de listar Permisos listo
+[33m3d38e7f[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into roberth
+[33mae8dfbe[m Carpeta apis roles
+[33m8df3237[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into henry
+[33md8f8bbf[m limpieza de console y warnings
+[33m4bb689b[m modal
+[33mbbd3eee[m -
+[33m0282428[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into henry
+[33m17c09f8[m roles
+[33mb3a7a18[m -
+[33m52e9ae0[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into henry
+[33m410b4e5[m Modal editar usuario y rol proceso
+[33me7916ad[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into henry
+[33me5945f5[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into dev
+[33m37a651f[m Tabla Usuario
+[33m8223a7e[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into roberth
+[33mc643684[m Carpetas optimizadas y vista de editar rol
+[33m113718f[m agregado tabla permisos (ROLES)
+[33m519323f[m tabla
+[33m277c6b6[m Arreglado gestion de rutas
+[33mbd37228[m Refactorizacion de rutas de los modulos
+[33mddd7d56[m integración de nuevo sidebar - gestion de usuarios
+[33m21e555e[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into dev
+[33mefc3c5e[m Sidebar y Header dinamicos
+[33m7d1ab7d[m responsive rangepicker2
+[33m5683665[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into henry
+[33md752662[m RangePicker Responsive
+[33m3ac15e1[m campos postulantes
+[33m9fa5679[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into roberth
+[33m2820d7b[m filtro pefil - resumen general
+[33m790f582[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into roberth
+[33m89044f2[m Exportacion de tablas y titulo
+[33mee05625[m Merge branch 'nadia' of https://github.com/CristinaAT19/sistemaERP into dev
+[33m4124600[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into dev
+[33m97f0594[m quitando filtros personalizados de resumen general
+[33mf1746f4[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into roberth
+[33maa5af1b[m exportacion de tablas entrevista
+[33m563d2c5[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into dev
+[33m0bc3614[m Responsi modal
+[33mc718856[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into dev
+[33m0a0e5c1[m terminado validaciones recursos
+[33m330c337[m Responsi modal Postulante
+[33mf0911ce[m detallitos
+[33m6b96868[m Prueba Permisos
+[33md65d6b8[m spinners, acciones left , validaciones recursos
+[33m7a1f152[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into roberth
+[33mb5c3e30[m cambios
+[33m9df37f8[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into henry
+[33m6c1f051[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into roberth
+[33m0545b9b[m Commit
+[33m57771a2[m Postulantes
+[33m23a1ea7[m actualizar, agregar competencias
+[33m4db462a[m Agregar y Actualizar Perfil
+[33m5c01c55[m Agregar recurso perfil y competencia
+[33m95e7181[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into dev
+[33m308c852[m integrado api de actualizar recurso Perfil
+[33m7112623[m Filtros a tablas
+[33m3fc2976[m mergin warnings
+[33me31c93b[m limpieza de warnings
+[33m412fd4d[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into roberth
+[33m8dfff1b[m Eliminar Recurso y listar requerimientos
+[33maef67db[m graficoEntrevistados
+[33md7d3ec1[m terminado postArea y plataforma - Reportes
+[33m587d2ad[m avance Entrevista graficos
+[33m56457e0[m este es
+[33ma31bdeb[m -
+[33me6af9a1[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into henry
+[33m890a258[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into henry
+[33m615eb61[m Integración reporte general y algunas de fechas
+[33m2645b39[m Reportes generales con sus apis integradas
+[33m844c3de[m Apis graficos Postulados por departamento, plataforma, puntaje
+[33mb21ecdb[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into henry
+[33m9ad1288[m api de delete
+[33m46ea0de[m terminado listar recursos
+[33mf5f5cf3[m cambios minimos
+[33me6f24fa[m modificaciones tablaPostulantes
+[33m20eac09[m agregado api listar plataformas
+[33m9ffff19[m modal agregar Perfil
+[33m4fc1b65[m añadido tabla conducta
+[33mf299444[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into henry
+[33m49cb06f[m agregando la api de agregar recurso
+[33mfd0d466[m -
+[33md5eefc3[m filtros modulo entrevista
+[33m82c6886[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into roberth
+[33m79d2bf0[m Api de plataformas implementada
+[33mbd11654[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into dev
+[33m864e6f4[m actualizacion
+[33m466d135[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into roberth
+[33m0611a7d[m Actualizar tablas evaluacion cv-star-conocimiento completado
+[33m2149367[m tabla postulante, modal, responsive
+[33mdbcdf67[m Merge branch 'dev' of https://github.com/CristinaAT19/sistemaERP into dev
